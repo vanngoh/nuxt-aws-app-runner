@@ -1,0 +1,26 @@
+{
+  "javascript.validate.enable": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.bracketSameLine": true,
+  "prettier.printWidth": 88,
+  "prettier.semi": true,
+  "prettier.singleQuote": false,
+  "prettier.bracketSpacing": true,
+  "prettier.arrowParens": "always",
+  "prettier.trailingComma": "es5",
+  "prettier.vueIndentScriptAndStyle": true,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
