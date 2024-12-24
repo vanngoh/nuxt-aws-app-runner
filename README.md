@@ -12,10 +12,14 @@
 ## Setup the prerequisites
 
 - [ ] Create an AWS account
+- [ ] Setup your AWS profile in local `aws-cli`
 - [ ] Setup the PostgreSQL (e.g. AWS RDS)
 - [ ] Set the required secrets into GitHub Secrets
 
 ## Docker containerize this app
+
+- [ ] Create a new repository in AWS ECR
+- [ ] Add Dockerfile
 
 <i>pending...</i>
 
